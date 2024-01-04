@@ -140,7 +140,7 @@ In Short: We aim to protect your personal information through a system of organi
 We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security, and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our App is at your own risk. You should only access the App within a secure environment.
 
 7. WHAT ARE YOUR PRIVACY RIGHTS?
-If you have questions or comments about your privacy rights, you may email us at info@dica.vn .
+If you have questions or comments about your privacy rights, you may email us at thanhns.dev@icloud.com.
 
 Account Information
 If you would at any time like to review or change the information in your account, you can
