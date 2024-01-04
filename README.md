@@ -79,7 +79,7 @@ We use personal information collected via our App for a variety of business purp
 We use the information we collect or receive:
 ■ To facilitate account creation and logon process. If you choose to link your account with us to a third-party account (such as your Google or Facebook account), we use the information you allowed us to collect from those third parties to facilitate account creation and logon process for the performance of the contract. See the section below headed " HOW DO WE HANDLE YOUR SOCIAL LOGINS? " for further information.
 
-■ To post testimonials. We post testimonials on our App that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at info@dica.vn and be sure to include your name, testimonial location, and contact information.
+■ To post testimonials. We post testimonials on our App that may contain personal information. Prior to posting a testimonial, we will obtain your consent to use your name and the content of the testimonial. If you wish to update, or delete your testimonial, please contact us at thanhns.dev@icloud.com and be sure to include your name, testimonial location, and contact information.
 
 ■ Request feedback. We may use your information to request feedback and to contact you about your use of our App .
 
